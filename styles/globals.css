@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.app{
+    width: 100%;
+}
+
+.icon{
+    font-size: small;
+    margin: 0 10px;
+    cursor: pointer;
+}
